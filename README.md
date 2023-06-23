@@ -13,3 +13,10 @@ The NiftiFileChecker class is a utility class for validating and analyzing NIfTI
 ## Requirements
 
 To use the NiftiFileChecker class, you need the following:
+
+
+
+```
+pip install -e .
+
+```
